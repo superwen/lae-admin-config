@@ -3,14 +3,13 @@ admin-config
 
 基于[laravel-admin](https://github.com/z-song/laravel-admin)的数据库配置管理工具，仅通过配置文件就可生成整个表单，支持使用tab页对配置项进行分组。
 
-![Untitled](https://ws4.sinaimg.cn/large/006tKfTcgy1g194izbkghg312y0mr1ky.gif)
 
 ## 安装：
 
 步骤一、使用 composer 安装
 
 ```
-composer require fourn/admin-config
+composer require superwen/lae-admin-config
 ```
 
 步骤二、执行数据库迁移

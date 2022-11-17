@@ -6,8 +6,8 @@ use Encore\Admin\Form\Footer;
 use Encore\Admin\Form\Tools;
 use Encore\Admin\Layout\Content;
 use Encore\Admin\Facades\Admin;
-use Fourn\AdminConfig\AdminConfigModel;
-use Fourn\AdminConfig\ConfigForm;
+use Superwen\AdminConfig\AdminConfigModel;
+use Superwen\AdminConfig\ConfigForm;
 use Illuminate\Routing\Controller;
 
 class AdminConfigController extends Controller
